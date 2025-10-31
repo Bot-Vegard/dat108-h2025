@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c58cfa92-40ec-45e1-be2b-a84e4d63ef1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/f07-wait-notify-fyllinn/src/waitnotifymelding/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f05-streams2-fyllinn/src/no/hvl/dat108/f05/Eks2countmatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/f05-streams2-fyllinn/src/no/hvl/dat108/f05/Eks2countmatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f05-streams2-fyllinn/src/no/hvl/dat108/f05/Eks6utviklere.java" beforeDir="false" afterPath="$PROJECT_DIR$/f05-streams2-fyllinn/src/no/hvl/dat108/f05/Eks6utviklere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06a/MinTraad.java" beforeDir="false" afterPath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06a/MinTraad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06a/_OppretteTraaderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06a/_OppretteTraaderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06c/_SleepStoppJoinMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06c/_SleepStoppJoinMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06d/TelleNedTraad.java" beforeDir="false" afterPath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06d/TelleNedTraad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06d/Teller.java" beforeDir="false" afterPath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06d/Teller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06d/_RaceConditionMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/f06-traader-intro-fyllinn/src/no/hvl/dat108/f06d/_RaceConditionMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f07-wait-notify-fyllinn/src/busywait/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/f07-wait-notify-fyllinn/src/busywait/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f07-wait-notify-fyllinn/src/waitnotifymelding/Melding.java" beforeDir="false" afterPath="$PROJECT_DIR$/f07-wait-notify-fyllinn/src/waitnotifymelding/Melding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f08-baller-reentrantlock-fyllinn/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/f08-baller-reentrantlock-fyllinn/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f08-baller-reentrantlock-fyllinn/src/baller/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/f08-baller-reentrantlock-fyllinn/src/baller/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f08-baller-reentrantlock-fyllinn/src/baller/BallerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/f08-baller-reentrantlock-fyllinn/src/baller/BallerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f08-baller-reentrantlock-fyllinn/src/ballstafett/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/f08-baller-reentrantlock-fyllinn/src/ballstafett/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f08-baller-reentrantlock-fyllinn/src/lockawaitsignal/Main1SyncWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/f08-baller-reentrantlock-fyllinn/src/lockawaitsignal/Main1SyncWaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f08-baller-reentrantlock-losning/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/f08-baller-reentrantlock-losning/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f16-bokliste-fyllinn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/f16-bokliste-fyllinn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f16-bokliste-fyllinn/src/main/java/no/hvl/dat108/BoklisteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/f16-bokliste-fyllinn/src/main/java/no/hvl/dat108/BoklisteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f16-bokliste-fyllinn/src/main/resources/static/sokeside.html" beforeDir="false" afterPath="$PROJECT_DIR$/f16-bokliste-fyllinn/src/main/resources/static/sokeside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f16-bokliste-fyllinn/src/main/webapp/WEB-INF/boklisteView.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/f16-bokliste-fyllinn/src/main/webapp/WEB-INF/boklisteView.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oppgaver-uke34-456-losning/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/oppgaver-uke34-456-losning/bin/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bot-Vegard&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lars-petter-helland/dat108-h2025.git&quot;,
+    &quot;accountId&quot;: &quot;5682075b-c885-475c-80e4-bb0d787fa928&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="325x7CM5yLJmFoK5BoiNQVgku72" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Mine dokumenter/Dokumenter/GitHub/dat100-javainnlevering2/Timen/dat108-h2025&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Mine dokumenter\Dokumenter\GitHub\dat100-javainnlevering2\Timen\dat108-h2025\f07-wait-notify-fyllinn\src\waitnotifymelding" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c58cfa92-40ec-45e1-be2b-a84e4d63ef1c" name="Changes" comment="" />
+      <created>1756724066645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756724066645</updated>
+    </task>
+    <servers />
+  </component>
+</project>
